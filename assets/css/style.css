@@ -1,3 +1,26 @@
 @charset "utf-8";
 /* CSS Document */
-
+.number{
+	 background:rgba(0,115,255,0.3);  /* Modern Browsers */
+/*	background: lightseagreen;*/
+	 padding:3px 25px;
+	display: inline-block;
+	color:white;
+	
+}.number2{
+	 background:rgba(70,103,143,0.3);  /* Modern Browsers */
+/*	background: lightseagreen;*/
+	 padding:3px 25px;
+	display: inline-block;
+	color:white;
+	
+}
+#instructions{
+	 background:rgba(70,103,143,0.3);  /* Modern Browsers */
+/*	background: lightseagreen;*/
+	 padding:3px 25px;
+	display: inline-block;
+	color:white;
+	
+	
+}
